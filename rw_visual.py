@@ -20,5 +20,3 @@ plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red',
 #plt.axes().get_xaxis().set_visible(False)
 #plt.axes().get_yaxis().set_visible(False)
 plt.show()
-
-print('test')
